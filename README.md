@@ -11,4 +11,4 @@ Para el diseño de la interfaz de usuario se uso HTM y CSS para el diseño en ge
 
 Para la comunicacion pagina-servidor se utilizo el lenguaje PHP y para enviar las instrucciones al servidor al momento de guardar los datos en la base de datos.
 
-Se utilizo Xampp para crear el servidor local y MySQL para el alojar y usar la base de datos.
+Se utilizo Xampp para crear el servidor local y MySQL para alojar y usar la base de datos.
